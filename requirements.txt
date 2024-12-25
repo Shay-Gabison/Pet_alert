@@ -27,3 +27,4 @@ so == 0.5
 synicdomain == 0.0.6.1
 topic-modeling-twitter == 0.0.1.2
 webcrawl == 1.1.2
+jinja2>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
